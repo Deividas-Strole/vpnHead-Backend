@@ -5,8 +5,6 @@ import com.vpnhead.api.model.Article;
 import com.vpnhead.api.repository.ArticleRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.PathVariable;
-
 import java.util.List;
 import java.util.stream.Collectors;
 
